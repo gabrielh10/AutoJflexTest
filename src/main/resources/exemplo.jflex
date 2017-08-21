@@ -1,5 +1,7 @@
 %%
 
+/* Não altere as configurações a seguir */
+
 %line
 %column
 %unicode
@@ -11,7 +13,7 @@
 
 /* Insira as regras léxicas abaixo */
 
-
+%
     
 /* Insira as regras léxicas no espaço acima */     
      
