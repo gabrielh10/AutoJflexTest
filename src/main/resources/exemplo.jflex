@@ -1,3 +1,5 @@
+package atividade1;
+
 %%
 
 /* Não altere as configurações a seguir */
